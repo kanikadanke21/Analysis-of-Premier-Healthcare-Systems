@@ -1,2 +1,2 @@
 # Analysis-of-Premier-Healthcare-Systems
-Project Report
+Premier Inc is a pioneer health care organization. They were facing a few challenges. We have proposed a model that will help them overcome those challenges. We first evaluated every department in the organization.Then we defined a method and developed a model and also defined the technique and tools and then provided business solutions and then analyzed the impact of all of the above on the system.
